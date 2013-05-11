@@ -1,0 +1,13 @@
+{
+  "name": "FirefoxOSAppDayZurich",
+  "description": "Test app for the Firefox OS App Day in Zurich - 25.05.2013",
+  "launch_path": "www/index.html",
+  "icons": {
+    "128": "/www/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Mozilla Switzerland",
+    "url": "http://twitter.com/MozillaCH"
+  },
+  "default_locale": "en"
+}
